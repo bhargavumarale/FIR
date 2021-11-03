@@ -1,0 +1,40 @@
+body
+{
+    background-color: pink;
+}
+
+#Me
+{
+    height: 30px;
+    width: 1000px;
+}
+
+#father
+{
+    height: 30px;
+    width: 1000px;
+}
+
+#Mother
+{
+    height: 30px;
+    width: 1000px;
+}
+
+#Sister
+{
+    height: 30px;
+    width: 1000px;
+}
+
+#GrandMother
+{
+    height: 30px;
+    width: 1000px;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
